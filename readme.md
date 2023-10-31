@@ -14,7 +14,7 @@ Visit azure.com for the primary [Azure Functions documentation page](https://azu
 
 If you would like documentation on the Functions runtime oriented towards contributors, those are hosted in the [Azure WebJobs SDK script GitHub wiki](https://github.com/azure/azure-webjobs-sdk-script/wiki).
 
-## Questions & Help
+## Questions 
 
 If you have questions about Azure Functions, we encourage you to reach out to the community and Azure Functions dev team for help.
 
